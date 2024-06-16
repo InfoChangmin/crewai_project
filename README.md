@@ -14,7 +14,7 @@
 **필수 조건 및 패키지 설치:**
 
 * Python 3.10 <3.9버전은 crewai-tools가 지원되지 않습니다.>
-* CrewAI
+* CrewAI (https://www.crewai.com/, https://docs.crewai.com/)
 * crewai-tools
 * yfinance
 

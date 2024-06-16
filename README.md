@@ -1,4 +1,5 @@
 ## CrewAI 기반 주식 분석 프로젝트
+![Uploading image.png…]()
 
 **개요:**
 

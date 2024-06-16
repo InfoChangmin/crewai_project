@@ -1,5 +1,5 @@
 ## CrewAI 기반 주식 분석 프로젝트
-![Uploading image.png…]()
+https://www.crewai.com/assets/crew_only-ce3e8e1afde0977caeaa861aab72f1cfee3c88a79127d6e2bea8d9b2066f5eb1.png
 
 **개요:**
 

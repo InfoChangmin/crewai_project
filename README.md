@@ -22,8 +22,9 @@
 
 1. 필요한 라이브러리 설치: requirements.txt파일을 참고하세요!
 2. 이 리포지토리를 복제하거나 다운로드합니다.
-3. OpenAI API 키를 `OPENAI_API_KEY` 환경 변수에 설정합니다. OpenAI 계정 설정에서 API 키를 확인할 수 있습니다 ([https://platform.openai.com/login](https://platform.openai.com/login)).
-4. (선택 사항) `OPENAI_MODEL_NAME` 환경 변수를 원하는 LLM 모델로 설정합니다 (기본값: "gpt-4-0125-preview"). <모델 context 사이즈가 작으면 텍스트 입력 과정에서 오류가 발생합니다.>
+3. ChatGPT와 같이 가용한 LLM을 확인하고 싶으면 https://docs.crewai.com/how-to/LLM-Connections/ 를 참고하세요!
+4. OpenAI API 키를 `OPENAI_API_KEY` 환경 변수에 설정합니다. OpenAI 계정 설정에서 API 키를 확인할 수 있습니다 ([https://platform.openai.com/login](https://platform.openai.com/login)).
+5. (선택 사항) `OPENAI_MODEL_NAME` 환경 변수를 원하는 LLM 모델로 설정합니다 (기본값: "gpt-4-0125-preview"). <모델 context 사이즈가 작으면 텍스트 입력 과정에서 오류가 발생합니다.>
 
 **사용 방법:**
 
